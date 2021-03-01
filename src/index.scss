@@ -1,0 +1,27 @@
+$width: 100px;
+#root {
+  width: 100px;
+  backface-visibility: hidden;
+  display: flex;
+}
+.img1 {
+  background-image: url('../assets/01.jpeg');
+  height: 80px;
+  width: 200px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.img2 {
+  background-image: url('../assets/02.jpg');
+  height: 80px;
+  width: 200px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.img3 {
+  background-image: url('../assets/04.png');
+  height: 80px;
+  width: 200px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
